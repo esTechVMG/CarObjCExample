@@ -1,0 +1,179 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 22291B761213852D00AF6989 /* CarClassTest */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* CarClassTest */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* CarClassTest */,
+		);
+		codeSenseManager = 22291B7D1213854C00AF6989 /* Code sense */;
+		executables = (
+			22291B761213852D00AF6989 /* CarClassTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 303269165;
+			PBXWorkspaceStateSaveDate = 303269165;
+		};
+		perUserProjectItems = {
+			22291B9F1213931700AF6989 /* PBXTextBookmark */ = 22291B9F1213931700AF6989 /* PBXTextBookmark */;
+			22291BB2121394E600AF6989 /* PBXTextBookmark */ = 22291BB2121394E600AF6989 /* PBXTextBookmark */;
+			22291BB3121394E600AF6989 /* PBXTextBookmark */ = 22291BB3121394E600AF6989 /* PBXTextBookmark */;
+			22291BB4121394E600AF6989 /* PBXTextBookmark */ = 22291BB4121394E600AF6989 /* PBXTextBookmark */;
+			22291BB6121394E700AF6989 /* PBXTextBookmark */ = 22291BB6121394E700AF6989 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 22291B7C1213854C00AF6989 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* CarClassTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 299}}";
+			sepNavSelRange = "{504, 0}";
+			sepNavVisRange = "{0, 492}";
+		};
+	};
+	22291B761213852D00AF6989 /* CarClassTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CarClassTest;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	22291B7C1213854C00AF6989 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	22291B7D1213854C00AF6989 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	22291B7E1213856500AF6989 /* SimpleCar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 455}}";
+			sepNavSelRange = "{39, 0}";
+			sepNavVisRange = "{0, 213}";
+		};
+	};
+	22291B7F1213856500AF6989 /* SimpleCar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 780}}";
+			sepNavSelRange = "{39, 0}";
+			sepNavVisRange = "{0, 217}";
+		};
+	};
+	22291B9F1213931700AF6989 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* CarClassTest.m */;
+		name = "CarClassTest.m: 21";
+		rLen = 0;
+		rLoc = 504;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	22291BB2121394E600AF6989 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22291B7F1213856500AF6989 /* SimpleCar.m */;
+		name = "SimpleCar.m: 5";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 217;
+		vrLoc = 0;
+	};
+	22291BB3121394E600AF6989 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22291B7E1213856500AF6989 /* SimpleCar.h */;
+		name = "SimpleCar.h: 5";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 213;
+		vrLoc = 0;
+	};
+	22291BB4121394E600AF6989 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* CarClassTest_Prefix.pch */;
+		name = "CarClassTest_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 166;
+		vrLoc = 0;
+	};
+	22291BB6121394E700AF6989 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* CarClassTest.m */;
+		name = "CarClassTest.m: 21";
+		rLen = 0;
+		rLoc = 504;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	32A70AAB03705E1F00C91783 /* CarClassTest_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 166}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* CarClassTest */ = {
+		activeExec = 0;
+		executables = (
+			22291B761213852D00AF6989 /* CarClassTest */,
+		);
+	};
+}
